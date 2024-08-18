@@ -1,6 +1,6 @@
 #Hola 👋
 ## Soy Roberto Quintana
-### Recien egresado de Ingenieria en computación
+### Recién egresado de Ingenieria en computación
 <!--
 **quintanaesc/quintanaesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
